@@ -2,6 +2,8 @@
 
 You are on Inspire Foundation's github organization profile.
 
+We have created this org. to share the software developed within our research projects with a wider audience.
+
 Check the progress of our Open-Source Initiative [here](https://github.com/orgs/InspireFoundationEc/projects/1).
 
 ## Resources for members
@@ -11,7 +13,7 @@ This is a collection of useful resources & guidelines for our first steps as an 
 
 If it's your first time working with git and/or github, take a moment and go over [this guide](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/2-github-basics/README.md). 
 
-After that you will be ready for contributing here!
+Once you've created your account, send [me](https://github.com/linomp) and email to add you to the org, and you will be ready for contributing here!
 
 ### Creating good repositories
 
