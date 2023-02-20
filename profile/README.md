@@ -2,7 +2,7 @@
 
 You are on Inspire Foundation's github organization profile.
 
-We have created this org. to share the software developed within our research projects with a wider audience.
+We have created this org. to share the software developed in our research projects with a wider audience.
 
 Check the progress of our Open-Source Initiative [here](https://github.com/orgs/InspireFoundationEc/projects/1).
 
