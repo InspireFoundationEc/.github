@@ -36,10 +36,4 @@ Once you've created your github account, [send me and email](mailto:linomp95@hot
 #### Tools
 - [Streamlit](https://github.com/streamlit/streamlit#quickstart): turn data scripts into shareable web apps. All in pure Python. No front‑end experience required. 
 - [Github Copilot](https://github.com/features/copilot): get AI-powered code suggestions and entire functions in real-time, right from your editor.
-- [CMake](https://cmake.org/): A professional build tool for cross-platform C++ projects. Learn more: [CMake vs. Make](https://deemocean.com/2022/09/08/cmake-vs-make/) | [Simple example project](https://github.com/InspireFoundationEc/cmake-hello-world).
-  
-  _Note: PRs to add more tools are welcome!_
 
-#### ML Challenges
-- https://www.kaggle.com/competitions
-- https://app.fruitpunch.ai/challenges
