@@ -23,9 +23,9 @@ Once you've created your github account, [send me and email](mailto:linomp95@hot
   - **Learn more** - where to go for more info; link to more extensive documentation
 
 - Repos to take inspiration from:
+  - https://github.com/facebookresearch/segment-anything
   - https://github.com/motiwari/BanditPAM
   - https://github.com/spotipy-dev/spotipy
-  - https://github.com/AutomatedProcessImprovement/knockouts-redesign
 
 ### Other resources
 
