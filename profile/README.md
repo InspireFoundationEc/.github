@@ -29,10 +29,6 @@ Once you've created your github account, [send me and email](mailto:linomp95@hot
 
 ### Other resources
 
-#### Software Best Practices
-- Watch this if you want to learn how to make a library that users enjoy: [The Design of everyday APIs - Lynn Root (Spotify)](https://youtu.be/0qYDmm1O7hc) (28 min.)
-- Read this if you want to learn why senior developers don't actually like extensive code comments: [the Clean Code book](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
-
 #### Tools
 - [Streamlit](https://github.com/streamlit/streamlit#quickstart): turn data scripts into shareable web apps. All in pure Python. No front‑end experience required. 
 - [Github Copilot](https://github.com/features/copilot): get AI-powered code suggestions and entire functions in real-time, right from your editor.
